@@ -12,9 +12,9 @@ Splash Screen
 
 Log in & Sign up Screen
 
-![image](https://user-images.githubusercontent.com/100855236/220239231-77bbf674-643b-435a-aa21-248924390096.png)
-![image](https://user-images.githubusercontent.com/100855236/220239267-e323d503-7cdf-4112-afdf-5217a2ca1a5a.png)
-![image](https://user-images.githubusercontent.com/100855236/220239292-bba1aa89-2a08-44f4-bb52-8b80435237e9.png)
+![image](https://user-images.githubusercontent.com/100855236/220239851-363cefb2-1ce5-4ae2-b802-35654a04d81c.png)
+![image](https://user-images.githubusercontent.com/100855236/220239919-3de169f5-4a6d-4eab-9d09-dbe522fbae7e.png)
+![image](https://user-images.githubusercontent.com/100855236/220239966-dd9e9758-fffb-4868-8e54-57e30225d2d7.png)
 
 Home Screen
 
